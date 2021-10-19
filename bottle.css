@@ -1,0 +1,26 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    font-size: 75px;
+    color: white;
+}
+a{
+    float: right;
+    background-color: greenyellow;
+    font-size: 50px;
+    border-radius: 20px;
+}
+h2{
+ 
+    border-radius: 20px;
+    font-size: 50px;
+background-color: greenyellow;
+width: 250px;
+}
+canvas{
+    box-shadow: 10px 10px 10px white;
+border-radius: 10px;
+background-color: hotpink;
+}
